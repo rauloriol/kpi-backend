@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RubenRuCh/kpi-backend.git"
+    "url": "git+https://github.com/rauloriol/kpi-backend.git"
   },
   "keywords": [
     "nodejs",
@@ -31,12 +31,9 @@
     "api",
     "kpi"
   ],
-  "author": "rruger",
+  "author": "rauloriol",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RubenRuCh/kpi-backend/issues"
-  },
-  "homepage": "https://github.com/RubenRuCh/kpi-backend#readme",
+  "homepage": "https://github.com/rauloriol/kpi-backend#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
